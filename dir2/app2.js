@@ -1,0 +1,1 @@
+console.log('2.Facem mai multe foldere ca sa le bagam in gitignore like wtf.... ')
